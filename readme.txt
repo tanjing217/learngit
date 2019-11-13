@@ -4,4 +4,5 @@ creating a new brantch is quick & simple
 add merge
 fast merge
 learn the git stash
+several people corporate
 
