@@ -4,4 +4,4 @@ creating a new brantch is quick & simple
 add merge
 fast merge
 learn the git stash
-I want to coperate
+I want several people to coperate
