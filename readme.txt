@@ -5,4 +5,6 @@ add merge
 fast merge
 learn the git stash
 several people corporate
+I commit it before you
+
 
