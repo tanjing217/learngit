@@ -7,3 +7,4 @@ learn the git stash
 I want several people to coperate
 I commit it before you
 tanjing write
+I want to learn the rebase
