@@ -5,5 +5,5 @@ add merge
 fast merge
 learn the git stash
 I want several people to coperate
-add comment
+I commit it before you
 tanjing write
