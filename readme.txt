@@ -6,3 +6,4 @@ fast merge
 learn the git stash
 I want several people to coperate
 add comment
+tanjing write
